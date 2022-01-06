@@ -1,0 +1,168 @@
+
+body{
+    font-family: 'Luxurious Roman', cursive;
+    margin: 0;
+}
+
+h1{
+    font-size: 50px;
+    line-height: 50%;
+}
+p{
+    line-height: 25px;
+}
+.mission-2022{
+    color: orange;
+}
+.line-color{
+    height: 100px;
+    width: 3px;
+    background-color: #f5620d;
+    margin-top:38px;
+    margin-right: 5px;
+    border-radius: 6px;
+}
+
+.first-section{
+     display: flex;
+
+}
+.first-section-content{
+    height: 300px;
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 20px;
+}
+.first-section-paragraph{
+    width:400px;
+    line-height: 20px;
+    
+}
+.search-now{
+    background-image: linear-gradient( orange, red);
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.person-2-pic{
+    height: 400px;
+    width: 300px;
+    margin-left: 30px;
+}
+.my-mission-section{
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 8%;
+    
+}
+
+
+.my-goal-pic{
+    height: 100px;
+    width:100px;
+    margin-top: 20px;
+    
+}
+.my-main-goal{
+    margin-left: 80px;
+}
+.my-goal-1{
+    height: 350px;
+    width: 250px;
+    background-color: aliceblue;
+    margin-left: 20px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+.my-goal-2{
+    height: 350px;
+    width: 250px;
+    background-color: #fdefdd;
+    margin-left: 20px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+.my-goal-3{
+    height: 350px;
+    width: 250px;
+    background-color: cornsilk;
+    margin-left: 20px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+h4{
+    margin-left: 10px;
+}
+.my-mission-paragraph{
+    margin: 10px;
+}
+.develop-limits{
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 500px;
+}
+.develop-limits-pic{
+    height: 400px;
+    width: 300px;
+    margin-left: 20px;
+}
+.develop-limits-section{
+    margin-top: 150px;
+  
+}
+
+.extra-section{
+    margin-top: 10%;
+    background-color: azure;
+    display: flex;
+}
+.extra-section-pic{
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    margin-left: 35px;
+}
+.extra-sextion-h2{
+    line-height: 40px;
+    text-align: center;
+}
+.extra-section-web{
+    width: 400px;
+}
+.extra-line{
+    height: 500px;
+    width: 4px;
+    background-color: orange;
+    border-radius: 5px;
+}
+.extra-section-contact{
+    margin-left: 250px;
+    margin-top: 100px;
+    color: orange;
+    text-decoration: underline;
+    text-underline-position:below;
+}
+.extra-section-icon{
+    height: 80px;
+    width: 80px;
+    padding-left: 50px;
+    margin-top: 10px;
+}
+.footer{
+    background-color: black;
+    height: 200px;
+    color: white;
+    text-align: center;
+    margin-top: -40px;
+    
+}
+.footer-mission{
+    font-family: 'The Nautigal', cursive;
+    font-size: 50px;
+    padding-top: 20px;
+}
